@@ -10,7 +10,7 @@ from langchain_community.vectorstores import Chroma
 
 
 CHROMA_PATH = "chroma"
-DATA_PATH = "data/5G_Core_Network_Study Paper_v8.pdf"
+DATA_PATH = "data/lte_related.pdf"
 
 
 def main():

@@ -1,1 +1,1 @@
-# Optimized-RAG-v2
+# RAG Pipeline for PDF queries
